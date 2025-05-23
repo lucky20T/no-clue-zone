@@ -11,6 +11,12 @@ This is where I throw in:
 - Notes, thoughts, and mini projects 🗒️  
 - Whatever else I don't know what to do with 😅
 
+##  🔗 snippets.
+-[Matrix-000](https://lucky20t.github.io/no-clue-zone/matrix-vibes000.html)
+-[Matrix-001](https://lucky20t.github.io/no-clue-zone/matrix-vibes001.html)
+-[Matrix-002](https://lucky20t.github.io/no-clue-zone/matrix-vibes002.html)
+
+
 ## 📎 Why?
 
 Because not everything needs a plan.  
